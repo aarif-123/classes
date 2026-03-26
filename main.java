@@ -2,7 +2,7 @@ public class main {
     private String state;
 
     public main() {
-        this.state = "IDLE"; // initial state
+        this.state = "IDLE";
     }
 
     public void next() {
